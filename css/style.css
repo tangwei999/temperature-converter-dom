@@ -1,3 +1,25 @@
 h1 {
-  color: blue;
+  color: grey;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+
+#integer {
+  margin: 0 auto;
+}
+
+#display {
+  height: 350px;
+  width: 600px;
+  background-color: red;
+}
+
+#display p {
+  color: white;
+  text-align: 0 auto;
 }
